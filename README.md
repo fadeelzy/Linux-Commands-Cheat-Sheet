@@ -39,6 +39,16 @@ Perfect for interview prep, DevOps practice, or quick reference.
 
 ---
 
+## 🎯 Why This Repo?
+
+I built this to solidify my Linux fundamentals and to help others prep for:
+
+DevOps / Cloud / SysAdmin interviews
+
+Everyday Linux usage
+
+Hands-on labs (AWS, Docker, etc.)
+
 ## 🚀 How to Use
 Clone the repo:
 ```bash
