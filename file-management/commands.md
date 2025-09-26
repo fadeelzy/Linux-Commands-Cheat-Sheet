@@ -56,6 +56,7 @@ This section covers the most important Linux commands for **creating, navigating
 | Command | Description |
 |---------|-------------|
 | `find . -name "file.txt"` | Search for `file.txt` in current directory |
+| `grep  "pattern" filename | powerful text search tool |
 | `find /path -type d -name "docs"` | Find a directory named "docs" |
 | `locate file.txt` | Quickly search for files (requires `updatedb`) |
 
