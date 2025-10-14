@@ -30,14 +30,6 @@ Perfect for interview prep, DevOps practice, or quick reference.
 
 ---
 
-## 🖼️ Screenshots
-| Command Example | Screenshot |
-|-----------------|------------|
-| `ls -l`         | ![ls](assets/ls-example.png) |
-| `htop`          | ![htop](assets/htop.png) |
-| DNS Lookup      | ![dns](assets/dns-resolution-diagram.png) |
-
----
 
 ## 🎯 Why This Repo?
 
